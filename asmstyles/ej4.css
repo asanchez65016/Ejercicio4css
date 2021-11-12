@@ -1,0 +1,9 @@
+div {
+  background-color: lightblue;
+  width: 300px;
+  border-color: blue;
+  border-width: 15px 0 ;
+  border-style: solid;
+  padding: 50px;
+  margin: 20px;
+}
