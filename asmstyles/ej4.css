@@ -7,3 +7,6 @@ div {
   padding: 50px;
   margin: 20px;
 }
+input:focus{
+  background-color: yellow;
+}
